@@ -1,5 +1,7 @@
 # Python Windows Buffer Ovenflow Bad Character Finder
 
+I originally created this script for the OSCP exam, and this helped me during my first exam.
+
 ## Usage Example
 
 <img width="1352" alt="sample" src="https://user-images.githubusercontent.com/34600708/185750337-1a14a5ac-6bd0-402b-a1cd-02fb6f3adb04.png">
